@@ -1,7 +1,6 @@
 # Das CHSH-Spiel: Was geteilter Zufall und Verschränkung bringen – Streamlit-Demo
 
-<!-- TODO nach dem Deploy: direkt hierher den Live-Link setzen (Leerzeile davor und danach):
-**[→ Demo live ausprobieren](https://sebastianhanisch-chsh-spiel-demo.streamlit.app/)** -->
+**[→ Demo live ausprobieren](https://sebastianhanisch-chsh-spiel-demo.streamlit.app/)**
 
 Stück 5 der Linie **„Teamrätsel“** (Arbeitstitel) in der „Konzepte“-Reihe für die Website „Sebastian Hanisch – Operations Research und Machine Learning“, und ehrlich gesagt ein **Randstück (optional)**: Es hat keine Logistik-Kulisse, es ist ein Lehrbuchmodell aus der Physik und liegt weit vom Rest der Linie. Gebraucht wird es als **Gegenstück zur Informationsleiter** der Linie: dort steigt der Gewinn mit mehr Wissen über die Aufgabe, hier mit mehr Ressourcen zwischen den Spielern bei gleichbleibenden Fragen.
 
